@@ -1,4 +1,4 @@
-Joseph_Albers_Vierkanten
+Joseph Albers Vierkanten
 ========================
 
 © Dirk Kremers
